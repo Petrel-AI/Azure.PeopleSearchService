@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package >
   <metadata>
-    <id>Petrel.Utils.Azure.PSS</id>
+    <id>PetrelAI.Utils.Azure.PeopleSearchService</id>
     <version>1.0.0</version>
-    <title>Petrel.Utils - useful classes for cut your routine</title>
+    <title>PetrelAI.Utils - useful classes for cut your routine</title>
     <authors>@maximgorbatyuk</authors>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <license type="expression">MIT</license>

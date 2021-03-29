@@ -1,1 +1,1 @@
-# Azure.PeopleSearchWebService
+# Azure.PeopleSearchService

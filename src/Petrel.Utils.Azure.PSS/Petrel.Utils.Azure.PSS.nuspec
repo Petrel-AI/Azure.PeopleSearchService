@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>Petrel.Utils.Azure.PSS</id>
-    <version>1.0.2</version>
+    <version>1.0.0</version>
     <title>Petrel.Utils - useful classes for cut your routine</title>
     <authors>@maximgorbatyuk</authors>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>

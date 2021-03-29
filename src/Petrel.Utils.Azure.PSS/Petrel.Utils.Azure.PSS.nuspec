@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>Petrel.Utils.Azure.PSS</id>
+    <version>1.0.2</version>
+    <title>Petrel.Utils - useful classes for cut your routine</title>
+    <authors>@maximgorbatyuk</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/Petrel-AI/Azure.PeopleSearchService</projectUrl>
+    <description>Useful classes for cut your routine</description>
+    <releaseNotes>Release notes.</releaseNotes>
+    <copyright>Copyright (c) @maximgorbatyuk, 2021</copyright>
+    <tags></tags>
+    <dependencies>
+      <dependency id="MaximGorbatyuk.Utils" version="1.0.2" />
+      <dependency id="MaximGorbatyuk.Utils.Abstract" version="1.0.2" />
+      <dependency id="MaximGorbatyuk.Utils.AspNetCore" version="1.0.2" />
+      <dependency id="Microsoft.Extensions.Http" version="5.0.0" />
+      <dependency id="Microsoft.IdentityModel.Clients.ActiveDirectory" version="5.2.9" />
+    </dependencies>
+  </metadata>
+	
+</package>

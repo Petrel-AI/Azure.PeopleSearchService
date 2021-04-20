@@ -15,8 +15,8 @@
 	</PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="MaximGorbatyuk.Utils" Version="1.0.3" />
-    <PackageReference Include="MaximGorbatyuk.Utils.AspNetCore" Version="1.0.3" />
+    <PackageReference Include="MaximGorbatyuk.Utils" Version="1.0.6" />
+    <PackageReference Include="MaximGorbatyuk.Utils.AspNetCore" Version="1.0.4" />
     <PackageReference Include="Microsoft.Extensions.Http" Version="5.0.0" />
     <PackageReference Include="Microsoft.IdentityModel.Clients.ActiveDirectory" Version="5.2.9" />
   </ItemGroup>
